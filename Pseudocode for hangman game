@@ -1,0 +1,20 @@
+if(1) guess d.n.e. used
+    reduce guess count
+    add to guess array
+    if(2) guess match answer array
+        replace in display array
+        if(3) display array === answer array
+            display You win, the Answer is ANSwER
+            play song
+            reset (how do I do this?)
+else(1)
+    pick again alert
+options for reset:
+    press any key to continue
+    resets counters
+    picks new answer
+other issues
+    what happens when the guess counter reachw 0?  
+    game over try again??
+to get rid of the commas --- 
+    will the append to medhod print horizontally??  
